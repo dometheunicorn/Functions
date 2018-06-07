@@ -1,0 +1,1 @@
+scoreboard players tag @a[tag=sneak,score_sneak=0] remove sneakscoreboard players tag @a[tag=!sneak,score_sneak_min=1] add sneakscoreboard players set @a[score_sneak_min=1] sneak 0
