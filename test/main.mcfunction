@@ -15,5 +15,3 @@ function test:main/landscape/customblock/main
 function test:test/custom_structure/loop
 
 function test:main/companion/follow
-
-function test:main/reload/main
