@@ -1,4 +1,4 @@
 
-title @s title ["",{"text":"Joa, es gibt anscheinend neue Bedeutungen der Farben oder so..."}]
+tellraw @s {"text":"Joa, es gibt anscheinend neu Bedeutungen von diesen farbigen Türmchen da..."}
 
 scoreboard players tag @s add joined
