@@ -1,5 +1,5 @@
 
-tellraw @s {"text":"Joa, es gibt anscheinend neu Bedeutungen von diesen farbigen Türmchen da..."}
+tellraw @s {"text":"Joa, es gibt anscheinend neue Bedeutungen von diesen farbigen Türmchen da..."}
 
 tp @s 35 3 12 180 10
 
