@@ -1,3 +1,6 @@
+title @s times 20 60 20
+
+title @s title {"text":"<-- Lies den Chat"}
 
 tellraw @s {"text":"Joa, es gibt anscheinend neue Bedeutungen von diesen farbigen Türmchen da..."}
 
