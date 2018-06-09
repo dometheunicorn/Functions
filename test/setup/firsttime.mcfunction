@@ -1,4 +1,4 @@
 
-title @a title ["",{"text":"Welcome to "},{"text":"edit later","italic":true}]
+title @s title ["",{"text":"Joa, es gibt anscheinend neue Bedeutungen der Farben oder so..."}]
 
-# scoreboard players tag @s add joined
+scoreboard players tag @s add joined
