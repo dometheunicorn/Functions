@@ -1,2 +1,2 @@
 
-execute @e[tag=anvil] ~ ~ ~ detect ~ ~ ~ minecraft:anvil -1 kill @s
+execute @e[tag=anvil] ~ ~ ~ detect ~-1 ~1 ~ minecraft:air 0 kill @s
