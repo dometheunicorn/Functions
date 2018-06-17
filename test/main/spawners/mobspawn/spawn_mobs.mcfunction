@@ -5,4 +5,4 @@ execute @e[tag=mobspawn_stand] ~ ~ ~ execute @e[type=zombie] ~ ~ ~ scoreboard pl
 
 execute @e[tag=mobspawn_stand,score_test_min=1] ~ ~ ~ summon minecraft:zombie ~ ~ ~
 
-execute @e[tag=mobspawn_stand] ~ ~ ~ scoreboard players operation @e[type=zombie,c=1] spawner_score = @s spawner_score
+execute @e[tag=mobspawn_stand] ~ ~ ~ scoreboard players operation @e[type=zombie,r=1] spawner_score = @s spawner_score
